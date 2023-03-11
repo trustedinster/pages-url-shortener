@@ -1,5 +1,5 @@
 # GitHub Pages Shorten
 
-- [How to use](https://github.com/nelsontky/gh-pages-url-shortener#-this-is-so-cool-how-can-i-use-this-with-my-own-domain)
+- [How to use（English）](https://github.com/trustedinster/us/wiki/en)
 
-- [使用方法](https://mp.weixin.qq.com/s/MTfJtBjeGXUF0Powe2RjFw)
+- [使用方法（中文）](https://github.com/trustedinster/us/wiki/zh)
